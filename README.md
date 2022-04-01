@@ -1,3 +1,4 @@
 # hello-pyworld
 python ku
-woshi read me 
+i m wzq
+i m learning py.
